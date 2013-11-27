@@ -1,0 +1,3 @@
+# This is the API configuration file. It contains the secret
+# key that is not to be shared with anyone.
+apikey=<YOUR_API_KEY_HERE>
